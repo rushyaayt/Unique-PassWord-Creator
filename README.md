@@ -17,7 +17,13 @@ Input words are used only as a seed — final output is unique and unpredictable
 
 ## 🚀 Usage
 ```bash
+nano pass.sh
 chmod +x pass.sh
+```
+copy this following script and paste into terminal>>>
+
+
+```
 ./pass.sh
 ```
 
