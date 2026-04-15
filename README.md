@@ -17,14 +17,14 @@ Input words are used only as a seed — final output is unique and unpredictable
 
 ## 🚀 Usage
 ```bash
-nano pass.sh
-chmod +x pass.sh
+nano UPCgen.sh
 ```
-copy this following script and paste into terminal>>>
+get script from script directory right under README.md.
 
-
+Then,
 ```
-./pass.sh
+chmod +x UPCgen.sh
+./UPCgen.sh
 ```
 
 
