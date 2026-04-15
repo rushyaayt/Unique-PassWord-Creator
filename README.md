@@ -19,3 +19,15 @@ Input words are used only as a seed — final output is unique and unpredictable
 ```bash
 chmod +x pass.sh
 ./pass.sh
+```
+
+
+## Example
+Enter any words (use + to separate multiple):
+apple+banana+cherry
+
+Enter the platform name (optional, press Enter to skip):
+Instagram
+
+Generated unique pattern:
+a94d@1f2a#3c4b$5d6e%..._Spotify
