@@ -31,3 +31,8 @@ Instagram
 
 Generated unique pattern:
 a94d@1f2a#3c4b$5d6e%..._Spotify
+
+
+## Important 
+It would not steel or grab your password
+until you show it anywehre or tell it anywhere.
