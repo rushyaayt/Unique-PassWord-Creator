@@ -1,2 +1,21 @@
 # Unique-PassWord-Creator
 This repo will automatically create a password which is not easy to even understood.
+# Unique Password Pattern Generator 🔒
+
+A Bash script that generates cryptic, hard-to-understand password patterns.  
+Input words are used only as a seed — final output is unique and unpredictable.
+
+---
+
+## ✨ Features
+- SHA-256 hashing + randomization
+- Random symbols and numbers for complexity
+- Optional platform tagging (Instagram, Bank, etc.)
+- Saves generated patterns to `password_patterns.txt`
+
+---
+
+## 🚀 Usage
+```bash
+chmod +x pass.sh
+./pass.sh
