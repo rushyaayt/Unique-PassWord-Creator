@@ -16,12 +16,6 @@ Input words are used only as a seed — final output is unique and unpredictable
 ---
 
 ## 🚀 Usage
-```bash
-nano UPCgen.sh
-```
-get script from script directory right under README.md.
-
-Then,
 ```
 chmod +x UPCgen.sh
 ./UPCgen.sh
